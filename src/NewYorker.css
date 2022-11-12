@@ -1,0 +1,24 @@
+.new-yorker {
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    /* border: 1px solid black; */
+}
+
+.picture {
+    height: 400px;
+    width: 398px;
+}
+
+.cartoon {
+    margin-bottom: 20px;
+    border: 1px solid gray;
+}
+
+.caption {
+    text-align: center;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: rgb(58, 57, 57);
+    margin-bottom: 10px;
+    height: 18.4px;
+}
